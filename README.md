@@ -1,7 +1,7 @@
 # Olá 👋
 ## Bem Vindo ao meu perfil
 
-
+<div class="tenor-gif-embed" data-postid="13065018721664120362" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/enjoying-food-at-the-game-billy-the-grim-adventures-of-billy-and-mandy-eating-snacks-in-stands-got-some-stadium-food-gif-13065018721664120362">Enjoying Food At The Game Billy GIF</a>from <a href="https://tenor.com/search/enjoying+food+at+the+game-gifs">Enjoying Food At The Game GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Contatos:
 <div>
@@ -10,4 +10,4 @@
 </div>
 
 
-<div><div class="tenor-gif-embed" data-postid="13065018721664120362" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/enjoying-food-at-the-game-billy-the-grim-adventures-of-billy-and-mandy-eating-snacks-in-stands-got-some-stadium-food-gif-13065018721664120362">Enjoying Food At The Game Billy GIF</a>from <a href="https://tenor.com/search/enjoying+food+at+the+game-gifs">Enjoying Food At The Game GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></div>
+
