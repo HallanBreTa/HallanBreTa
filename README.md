@@ -3,10 +3,7 @@
 aqui é um canto para eu colocar minhas ideias e estudos, me siga caro queira acompanhar o que eu estou fazendo :)
 
 
-![](https://tenor.com/pJh5tnQ37lm.gif)
-<div>
-   <img src="https://tenor.com/pJh5tnQ37lm.gif"/>
-</div>
+![](https://media1.tenor.com/m/tVBFTlCeNioAAAAd/enjoying-food-at-the-game-billy.gif)
 
 ## Contatos:
 <div>
